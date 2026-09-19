@@ -1,5 +1,4 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "hbtthangtien-claude-blog",
   "owner": {
     "name": "hbtthangtien"
