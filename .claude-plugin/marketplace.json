@@ -1,7 +1,8 @@
 {
-  "name": "agricidaniel-blog",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hbtthangtien-claude-blog",
   "owner": {
-    "name": "AgriciDaniel"
+    "name": "hbtthangtien"
   },
   "metadata": {
     "description": "Blog creation and optimization tools for Claude Code"
@@ -10,7 +11,27 @@
     {
       "name": "claude-blog",
       "source": "./",
-      "description": "AI-powered blog creation, optimization, and management with 32 sub-skills, 5 agents, FLOW framework integration, semantic topic-cluster execution, multilingual publishing, brand and discourse context auto-load, and 5-category scoring. Optimized for Google rankings and AI citations."
+      "description": "AI-powered blog creation, optimization, and management with 32 sub-skills, 5 agents, FLOW framework integration, semantic topic-cluster execution, multilingual publishing, brand and discourse context auto-load, and 5-category scoring. Optimized for Google rankings and AI citations.",
+      "author": {
+        "name": "hbtthangtien",
+        "url": "https://github.com/hbtthangtien"
+      },
+      "category": "marketing",
+      "homepage": "https://github.com/hbtthangtien/claude-blog",
+      "keywords": [
+        "blog",
+        "seo",
+        "content",
+        "writing",
+        "ai-citations",
+        "geo",
+        "eeat",
+        "google-rankings",
+        "content-optimization",
+        "multilingual",
+        "topic-clusters"
+      ]
     }
   ]
 }
+
